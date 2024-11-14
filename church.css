@@ -22,10 +22,7 @@ body {
   width: 1440px;
 }
 
-/* .width {
-  width: 1440px;
-  height: 814px;
-} */
+
 
 
 .header {
@@ -110,6 +107,7 @@ li a {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  position: relative;
 }
 
 .heading_1_first_section {
@@ -135,7 +133,7 @@ li a {
   background-color: var(--color);
   width: 470px;
   height: 16px;
-  bottom: 190px;
+  bottom: 240px;
   left: 83px;
   position: absolute;
   /* z-index: ; */
